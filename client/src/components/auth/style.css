@@ -1,0 +1,23 @@
+.myform{
+      background-color: #dfeae3;
+      margin-top: 5%;
+}
+.myform1{
+       
+      background-color: aliceblue;
+      border: 2px solid rgb(255, 255, 255);
+      padding: 10%;
+      margin:4%;
+}
+
+.myform2{
+      border: 2px solid rgb(255, 255, 255);
+      background-color: aliceblue;
+      padding: 10%;
+      margin:4%;
+}
+
+.textcolor{
+      color:rgb(11, 235, 97);
+      font-weight: 800;
+}

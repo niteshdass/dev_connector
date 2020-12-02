@@ -1,0 +1,5 @@
+{
+      "mongoURL":"mongodb://localhost/devconnector",
+      "githubClientId":"e283fb8f752cea08d9a1",
+      "githubSecret":"461d0ace44a95e0d4fb912054276f775894999b2"
+}
